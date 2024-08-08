@@ -4,8 +4,6 @@
 
 Odometer DApp is a decentralized application designed to prevent odometer fraud in vehicles. By using blockchain technology, the DApp securely records and verifies vehicle mileage, ensuring that data cannot be tampered with. This increases transparency and trust in the automotive market.
 
-## PPT Presentation 
-
 ## Features
 
 - **Record Mileage**: Securely record vehicle mileage on the blockchain.
